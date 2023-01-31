@@ -6,4 +6,7 @@ export default defineConfig({
     { path: "/docs", component: "docs" },
   ],
   npmClient: 'yarn',
+  define: {
+    baseUrl: 'dev baseUrl'
+  }
 });
