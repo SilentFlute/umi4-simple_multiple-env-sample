@@ -7,6 +7,6 @@ export default defineConfig({
   ],
   npmClient: 'yarn',
   define: {
-    baseUrl: 'dev baseUrl'
+    baseUrl: 'online baseUrl'
   }
 });
